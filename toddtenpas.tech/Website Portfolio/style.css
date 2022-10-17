@@ -1,0 +1,61 @@
+body {
+  background-color: rgb(6, 126, 165);
+  color: #ffffff;
+}
+
+header {
+  padding: 20px 0;
+}
+
+footer {
+  padding-top: 50px;
+}
+
+a {
+  color: white;
+}
+
+.btn:active {
+  transform: scale(0.98);
+}
+
+.nav:active {
+  transform: scale(0.98);
+}
+
+.jumbotron {
+  display: flex;
+  align-items: center;
+  background-image: url("/Website Portfolio/Photos/Valley\ View.jpg");
+  background-size: cover;
+  color: #ffffff;
+  height: 300px;
+  text-shadow: 0.5px 0.5px 0.5px #000000;
+}
+
+.cmatrix {
+  background-image: url("/Website Portfolio/Photos/Cmatrix.jfif");
+  background-size: cover;
+}
+
+.ctf {
+  background-image: url("/Website Portfolio/Photos/Maxx\ CTF\ competition\ pic.PNG");
+  background-size: cover;
+  height: 700px;
+  color: black;
+}
+
+.options {
+  display: flex;
+  align-items: center;
+  color: #ffffff;
+  text-shadow: 0.5px 0.5px 0.5px #000000;
+  margin: 0px;
+  font-size: 50px;
+}
+
+.work {
+  border-top: solid;
+  border-width: 5px;
+  border-color: white;
+}
